@@ -1,5 +1,6 @@
 function basicTeenager(age) {
-  13 > 19;
+  age = 3 < 5;
+  return age;
 }
 
 function teenager(age) {
